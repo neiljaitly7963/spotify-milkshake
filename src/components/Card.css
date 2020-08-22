@@ -1,0 +1,8 @@
+.album-art{
+	object-fit: cover;
+}
+
+.box{
+	height: 150px;
+	width: 273.33px;
+}

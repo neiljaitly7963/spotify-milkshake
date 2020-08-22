@@ -1,0 +1,18 @@
+.nav-zone{
+	background-color: rgba(0, 0, 0, 0.6);
+}
+
+.main-nav{
+	display: flex;
+	list-style: none;
+	font-size: 1em;
+	margin: 0;
+	flex-direction: row;
+	justify-content: flex-end;
+}
+
+li{
+	padding: 20px;
+	color: #fff;
+	font-weight: 700;
+}

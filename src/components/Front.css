@@ -1,0 +1,47 @@
+.flex-wrapper{
+	display: grid;
+	grid-template-columns: 1fr 2fr;
+	grid-gap: 20px;
+	padding: 80px;
+}
+
+.album-grid{
+	display: grid;
+	grid-template-columns: repeat(3, 237.33px);
+	grid-template-rows: repeat(2, 237.33px);
+	grid-gap: 13px;
+}
+
+.album{
+	width: 237.33px;
+	height: 237.33px;
+	background-color: black;
+}
+
+.heading{
+	font-size: 80px;
+	font-weight: 900;
+	letter-spacing: -0.04em;
+	line-height: 1.15;
+
+}
+
+.text-color{
+	color: #fff;
+}
+
+small{
+	font-weight: 700;
+	font-size: 12px;
+}
+
+h3{
+	font-size: 24px;
+	letter-spacing: -0.01em;
+	font-weight: 900;
+	line-height: 1.4;
+}
+
+
+
+
